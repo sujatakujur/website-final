@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: devop2025/newproject
+        image: devtest2025/newproject
         ports:
         - containerPort: 80
